@@ -16,5 +16,9 @@ numpy, scipy- number python library
 pandas - data handling library
 2.3 Frontend
 HTML, CSS & Javascript were used for the front end of the application.
+
+
 Main Objective:
+
+
 The objective was to display the top 50 books with the highest average rating but we will display only those books which got a minimum of 250 votes. I kept only those users who have rated at least 200 books as they are knowledgeable reviewers for the selection of top50 books 
